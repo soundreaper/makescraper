@@ -1,0 +1,25 @@
+{
+    "Name": "Humphrey Bogart",
+    "Photo": "https://m.media-amazon.com/images/M/MV5BMTIyOTE3MDM5Ml5BMl5BanBnXkFtZTYwMzA2MTM2._V1_UY317_CR14,0,214,317_AL_.jpg",
+    "JobTitle": "Actor\nSoundtrack\nProducer",
+    "BirthDate": "1899-12-25",
+    "Bio": "Humphrey DeForest Bogart was born in New York City, New York, to Maud Humphrey, a famed magazine illustrator and suffragette, and Belmont DeForest Bogart, a moderately wealthy surgeon (who was secretly addicted to opium). Bogart was educated at Trinity School, NYC, and was sent to Phillips Academy in Andover, Massachusetts, in preparation for ...            \n                    See full bio »",
+    "TopMovies": [
+        {
+            "Title": "Casablanca",
+            "Year": "(1942)"
+        },
+        {
+            "Title": "In a Lonely Place",
+            "Year": "(1950)"
+        },
+        {
+            "Title": "The Maltese Falcon",
+            "Year": "(1941)"
+        },
+        {
+            "Title": "The African Queen",
+            "Year": "(1951)"
+        }
+    ]
+}
